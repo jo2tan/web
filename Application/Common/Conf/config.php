@@ -18,5 +18,5 @@ return array(
 
 	'ERROR_PAGE'			=>	'http://localhost/404.html',
 
-	'SESSION_TYPE'  =>  'Db',			//session æ•°æ®åº?
+	//'SESSION_TYPE'  =>  'Db',			//session æ•°æ®åº?
 );
